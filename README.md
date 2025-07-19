@@ -7,14 +7,19 @@ Streamlit for a user-friendly interface and integrates multiple predictive model
 comprehensive medical assessment. 
 
 The system includes five predictive models: 
+
 • Diabetes Prediction Model: Uses metrics like pregnancies, glucose levels, BMI, 
 and age to assess diabetes risk. 
+
 • Heart Disease Prediction Model: Evaluates factors such as cholesterol, blood 
 pressure, and chest pain types for detecting heart-related issues. 
+
 • Parkinson’s Disease Prediction Model: Utilizes voice-based features like Jitter, 
 Shimmer, and NHR to identify Parkinson’s risk. 
+
 • Lung Cancer Prediction Model: Considers lifestyle indicators such as smoking 
 habits, anxiety, and shortness of breath for prediction. 
+
 • Hypo-Thyroid Prediction Model: Uses hormone levels like TSH, T3, and TT4 to 
 assess thyroid conditions. 
 
