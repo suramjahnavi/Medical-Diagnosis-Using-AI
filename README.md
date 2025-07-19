@@ -6,6 +6,7 @@ predicts these conditions using machine learning models. The application leverag
 Streamlit for a user-friendly interface and integrates multiple predictive models for 
 comprehensive medical assessment. 
 
+
 The system includes five predictive models: 
 
 • Diabetes Prediction Model: Uses metrics like pregnancies, glucose levels, BMI, 
