@@ -5,6 +5,7 @@ treatment and better outcomes. This project introduces an AI-based web applicati
 predicts these conditions using machine learning models. The application leverages 
 Streamlit for a user-friendly interface and integrates multiple predictive models for 
 comprehensive medical assessment. 
+
 The system includes five predictive models: 
 • Diabetes Prediction Model: Uses metrics like pregnancies, glucose levels, BMI, 
 and age to assess diabetes risk. 
@@ -16,6 +17,7 @@ Shimmer, and NHR to identify Parkinson’s risk.
 habits, anxiety, and shortness of breath for prediction. 
 • Hypo-Thyroid Prediction Model: Uses hormone levels like TSH, T3, and TT4 to 
 assess thyroid conditions. 
+
 By integrating these models into a single platform, the tool empowers users to receive 
 immediate insights about potential health risks. The system demonstrates how AI can bridge 
 the gap between complex medical data and practical diagnostic tools, offering significant 
